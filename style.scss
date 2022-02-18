@@ -25,9 +25,9 @@ body {
   display: flex;
   flex-direction: column;
   background-color: $card-bg;
-  border-radius: 5%;
+  border-radius: 1rem;
   gap: 1em;
-  width: 50vh;
+  width: 22rem;
   padding: 1.5em;
   justify-content: center;
   align-items: center;
@@ -54,6 +54,7 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 0;
+    transition: 0.5s;
   }
   &__creator {
     display: flex;
