@@ -76,8 +76,8 @@ body {
       -ms-flex-align: center;
           align-items: center;
   font-size: 0;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
 }
 
 .card__creator {
